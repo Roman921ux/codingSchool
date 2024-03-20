@@ -1,0 +1,2 @@
+1. К профессиям добавить ключь Description
+2. К профессиям добавить ключь Description_programs + 

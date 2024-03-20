@@ -1,0 +1,1 @@
+export const DOMEN = 'https://92ea-87-251-77-162.ngrok-free.app'
