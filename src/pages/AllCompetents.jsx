@@ -47,7 +47,7 @@ background: linear-gradient(87deg, rgba(255,255,255,1) 44%, rgba(94,92,233,1) 10
   padding: 40px 50px 50px 50px;
   width: 100%;
   margin-bottom: 30px;
-  margin-top: -350px;
+  /* margin-top: -350px; */
 `
 
 const TextBlock = styled.div`

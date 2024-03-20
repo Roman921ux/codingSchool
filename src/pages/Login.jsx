@@ -82,5 +82,5 @@ const Container = styled.div`
   border: 1px solid rgba(1,1,1, 0.2);
   border-radius: 15px;
   padding: 60px;
-  margin-top: -350px;
+  /* margin-top: -350px; */
 `
