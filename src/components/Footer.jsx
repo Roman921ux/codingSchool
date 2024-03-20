@@ -30,7 +30,7 @@ const FooterBlock = styled.div`
 background: rgb(0,0,0);
 background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(1,23,48,1) 59%, rgba(33,69,109,0.9927783613445378) 100%);
   margin-top: 150px;
-  width: 100vw;
+  /* width: 100vw; */
 `
 
 const Text = styled.span`
